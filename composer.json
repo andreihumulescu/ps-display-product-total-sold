@@ -1,0 +1,15 @@
+{
+  "name": "andreih/producttotalsold",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "PrestaShop\\Module\\DisplayProductTotalSold\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Andrei H"
+    }
+  ],
+  "require": {}
+}
